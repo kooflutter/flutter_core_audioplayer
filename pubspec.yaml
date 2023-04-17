@@ -1,7 +1,7 @@
 name: flutter_core_audioplayer
 description: 一个简单的关于音频播放方面的插件
 version: 0.0.1
-homepage:
+homepage: https://github.com/kooflutter/flutter_core_audioplayer
 
 environment:
   sdk: '>=2.19.4 <3.0.0'
